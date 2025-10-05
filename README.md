@@ -2,8 +2,6 @@
 <h3 align="center">Computer Engineering Undergrad | Fullstack Projects | Solving Algorithms | Curious about AI/ML</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahek2710" alt="mahek2710" /></a> </p>
-
 - 🌱 I’m currently learning **DSA,backend**
 
 - 👯 I’m looking to collaborate on **MERN projects**
