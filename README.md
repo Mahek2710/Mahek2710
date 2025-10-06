@@ -8,7 +8,7 @@
 - 🌱 Currently learning **DSA** and **Backend Development**  
 - 👯 Open to collaborate on **MERN Stack Projects**  
 - 📫 Reach me at **mahek.hingorani@gmail.com**  
-- ⚡ Fun Fact: *I survive on cold coffee and sarcasm ☕😎*  
+- ⚡ Fun Fact: I survive on cold coffee and sarcasm  
 
 ---
 
