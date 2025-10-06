@@ -1,20 +1,18 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mahek Hingorani</h1>
-<h3 align="center">💻 Computer Engineering Undergrad | Fullstack Dev | Algorithm Enthusiast | AI/ML Curious 💡</h3>
+<h3 align="center">💻 Computer Engineering Undergrad | Fullstack Projects | Solving Algorithms | Curious about AI/ML</h3>
 
 ---
 
 ### 👩‍💻 About Me
-
-- 🌱 Currently learning **DSA** and **Backend Development**
-- 👯 Open to collaborate on **MERN Stack Projects**
-- 📫 Reach me at **mahek.hingorani@gmail.com**
-- ⚡ Fun Fact: *I survive on cold coffee and sarcasm ☕😎*
+- 🌱 Currently learning **DSA** and **Backend Development**  
+- 👯 Open to collaborate on **MERN Stack Projects**  
+- 📫 Reach me at **mahek.hingorani@gmail.com**  
+- ⚡ Fun Fact: *I survive on cold coffee and sarcasm ☕😎*  
 
 ---
 
 ### 🌐 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/mahekhingorani" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
@@ -63,7 +61,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahek2710&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahek2710&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahek2710&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
@@ -76,5 +74,3 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mahek27?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
 </p>
-
----
