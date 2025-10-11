@@ -69,7 +69,7 @@
 
 ---
 
-### 🧩 LeetCode Stats
+### 🧩 LeetCode Stats 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mahek27?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
 </p>
