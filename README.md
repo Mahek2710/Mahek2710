@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Mahek Hingorani</h1>
-<h3 align="center">Computer Engineering Undergrad(CGPA: 9.33) | Fullstack Projects | Solving Algorithms | Curious about AI/ML</h3>
+<h3 align="center">Computer Engineering Undergrad(CGPA: 9.33) | Fullstack Projects | Solving Algorithms | Exploring AI/ML</h3>
 
 ---
 
