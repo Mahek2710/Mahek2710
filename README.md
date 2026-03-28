@@ -60,11 +60,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahek2710&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahek2710&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahek2710&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahek2710&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 ---
