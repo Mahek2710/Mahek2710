@@ -60,8 +60,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahek2710&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahek2710&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahek2710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahek2710&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahek2710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="140"/>
 </p>
 
 ---
