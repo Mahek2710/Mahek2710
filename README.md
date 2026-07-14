@@ -1,9 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Mahek Hingorani</h1>
 <h3 align="center">Computer Engineering Undergrad(CGPA: 9.41) | Fullstack Projects | Solving Algorithms | Exploring AI/ML</h3>
-<p align="center">
-  <img src="banner.png" width="100%" alt="Workspace Banner">
-</p>
+
 ---
 
 ### 👩‍💻 About Me
@@ -75,4 +73,7 @@
 ### 🧩 LeetCode Stats 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mahek27?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
+</p>
+<p align="center">
+  <img src="banner.png" width="100%" alt="Workspace Banner">
 </p>
