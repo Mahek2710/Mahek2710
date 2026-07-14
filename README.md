@@ -1,7 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Mahek Hingorani</h1>
 <h3 align="center">Computer Engineering Undergrad(CGPA: 9.41) | Fullstack Projects | Solving Algorithms | Exploring AI/ML</h3>
-
+<p align="center">
+  <img src="banner.png" width="100%" alt="Workspace Banner">
+</p>
 ---
 
 ### 👩‍💻 About Me
