@@ -3,6 +3,9 @@
 <h3 align="center">Computer Engineering Undergrad(CGPA: 9.41) | Fullstack Projects | Solving Algorithms | Exploring AI/ML</h3>
 
 ---
+<p align="center">
+  <img src="banner.png" width="100%" alt="Workspace Banner">
+</p>
 
 ### 👩‍💻 About Me
 - 🌱 Currently working on **DSA** and **Backend Development**  
