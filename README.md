@@ -74,6 +74,4 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mahek27?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
 </p>
-<p align="center">
-  <img src="banner.png" width="100%" alt="Workspace Banner">
-</p>
+
